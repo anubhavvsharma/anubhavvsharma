@@ -1,6 +1,6 @@
 <img src="https://64.media.tumblr.com/31612fe4e8c0e4766b39b2a325767942/tumblr_nomepqMoOx1urr5czo2_1280.png"  width="1000" height="200">
 <h1 align="center">Greetings</h1>
-<h3 align="center">I am a Prefinal Year Computer Science undergraduate and a Full Stack Developer. I like to code in C++ and JavaScript, and I am well versed with web development tecchnologies like Node, Express and React. I look forward to contribute to real world projects.</h3>
+<h3 align="center">I am a Prefinal Year Computer Science undergraduate and a Full Stack Developer. I like to code in C++ and JavaScript, also I am well versed with web development tecchnologies like Node, Express, React and Firebase. I look forward to contribute to real world projects.</h3>
 
 - 📫 Email **sharmaanubhav2403@gmail.com**
 
