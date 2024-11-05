@@ -1,7 +1,6 @@
 <h1 align="center">Greetings!</h1>
 <h3 align="center">I am a Prefinal Year Computer Science undergraduate and a Full Stack Developer. I like to code in C++ and JavaScript, also I am well versed with web development technologies like Node, Express, React and Firebase. I look forward to contribute to real world projects.</h3>
 
-- 📫 Email **sharmaanubhav2403@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
