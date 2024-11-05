@@ -18,5 +18,4 @@
 ![](https://leetcode.card.workers.dev/anubhavvsharma?theme=dark&font=baloo&extension=null)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavvsharma&show_icons=true&locale=en&layout=compact" alt="anubhavvsharma" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavvsharma&" alt="anubhavvsharma" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anubhavsharrma&theme=dark)](https://git.io/streak-stats)
