@@ -18,4 +18,4 @@
 ![](https://leetcode.card.workers.dev/anubhavvsharma?theme=dark&font=baloo&extension=null)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anubhavsharrma&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anubhavsharrma&theme=dark" alt="GitHub Streak" /></a>
