@@ -16,4 +16,4 @@
 ![](https://leetcode.card.workers.dev/anubhavvsharma?theme=dark&font=baloo&extension=null)
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anubhavvsharma&theme=dark" alt="GitHub Streak" /></a>
+![anubhavvsharma's Stats](https://github-readme-stats.vercel.app/api?username=anubhavvsharma&theme=dark&show_icons=true&hide_border=true&count_private=false)
