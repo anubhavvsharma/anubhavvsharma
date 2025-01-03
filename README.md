@@ -1,5 +1,5 @@
 <h1 align="center">Greetings!</h1>
-<h3 align="center">I am a Prefinal Year Computer Science undergraduate and a Full Stack Developer. I like to code in C++ and JavaScript, also I am well versed with web development technologies like Node, Express, React and Firebase.</h3>
+<h3 align="center">I am a prefinal year engineering student and a Full Stack Developer. I like to code in C++ and JavaScript, also I am well versed with web development technologies like Node, Express, React and Firebase.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
