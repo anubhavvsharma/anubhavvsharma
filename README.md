@@ -1,7 +1,3 @@
-<h1 align="center">Greetings!</h1>
-<h3 align="center">I am a prefinal year engineering student and a Full Stack Developer. I like to code in C++ and JavaScript, also I am well versed with web development technologies like Node, Express, React and Next.</h3>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anubhavsharrma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anubhavsharrma" height="30" width="40" /></a>  
